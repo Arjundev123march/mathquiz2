@@ -1,0 +1,20 @@
+body{
+    background-image: url("background-illustration-math-symbols-formulas-260nw-730379383.webp");
+}
+h1{
+    color: blue;
+}
+label{
+    color:red;
+    font-size: 20px;
+    padding-right: 10px;
+}
+input{
+    border-radius: 10px;
+    background: yellow;
+}
+button{
+    border-radius: 25px;
+    background:pink;
+    padding: 10px;
+}
